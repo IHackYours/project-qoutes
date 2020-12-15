@@ -18,5 +18,3 @@
 <a href="https://github.com/IHackYours/project-qoutes/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IHackYours/project-qoutes?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <a href="https://trakteer.id/ihackyours"><img title="DONATE" src="https://img.shields.io/badge/PLEASE-DONATE--IHACK--YOURS-blue?style=for-the-badge&logo=linux"></a>
-<h1 align="center">Thanks to!</h1>
-<table> <tr> <td align="center"><a href="https://github.com/sebam2k4"><img src="https://avatars1.githubusercontent.com/u/18395533?s=400&u=5feb0755468baa8ababa47b8e753e07d3a200632&v=4" width="100px;" alt=""/><br /><sub><b>sebam2k4</b></sub></a><br /><a href="#design-sebam2k4" title="Design">👏</a></td>
