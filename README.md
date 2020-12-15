@@ -18,3 +18,5 @@
 <a href="https://github.com/IHackYours/project-qoutes/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IHackYours/project-qoutes?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <a href="https://trakteer.id/ihackyours"><img title="DONATE" src="https://img.shields.io/badge/PLEASE-DONATE--IHACK--YOURS-blue?style=for-the-badge&logo=linux"></a>
+<h1 align="center">Thanks to!</h1>
+<table> <tr> <td align="center"><a href="https://m.bola.com/ragam/read/4335525/30-kata-kata-quotes-keren-cocok-dijadikan-caption-media-sosial"><img src="https://b.top4top.io/p_1809pnewf0.jpeg" width="100px;" alt=""/><br /><sub><b>kata-kata qoutes</b></sub></a><br /><a href="#design-kata-kata qoutes" title="Design">😗</a></td>
